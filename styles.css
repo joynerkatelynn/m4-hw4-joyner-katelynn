@@ -1,0 +1,50 @@
+body{
+    margin: auto;
+}
+
+div.menu{
+    background-color: darkred;
+    color: white;
+}
+
+div.menu a{
+    color: white;
+}
+
+aside.caption{
+    text-align: center;
+    color: #242526;
+    font-style:italic;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.center-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+h1{
+    text-align: center;
+    color: darkred;
+    font-family: fantasy;
+    font-size: 50px
+}
+
+h2, h3{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+p{
+    text-align: justify;
+    color: #242526;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+ol, ul{
+    color: #242526;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
